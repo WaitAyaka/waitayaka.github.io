@@ -8,7 +8,7 @@
       <link href="/2024/04/30/text/"/>
       <url>/2024/04/30/text/</url>
       
-        <content type="html"><![CDATA[<p><img src="2024-04-30-text/image-20240430091655016.png" alt="image-20240430091655016"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430112354350.png" alt="image-20240430112354350"></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="2024-04-30-text/image-20240430091655016.png" alt="image-20240430091655016"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430112354350.png" alt="image-20240430112354350"></p><p><img src="/C:/Users/21879/AppData/Roaming/Typora/typora-user-images/image-20240430142109002.png" alt="image-20240430142109002"></p>]]></content>
       
       
       
@@ -44,17 +44,6 @@
     
     
     <entry>
-      <title>gallery</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="wanxiaB.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Top榜</div>  <p>我心目中最好看的照片</p>  <a href="Gallery/wanxiaB"></a>  </figcaption>  </figure>     <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="yuanshen1.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">原神</div>  <p>Genshin</p>  <a href="Gallery/genshin"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="ganjiang.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">赣江公园</div>  <p>过期的老照片还是会有感觉</p>  <a href="Gallery/ganjiang"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="riluoA.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">日落</div>  <p>什么时候还能独自骑着车看日落呢</p>  <a href="Gallery/sunshinA"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="wanxiaA.png" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">晚霞</div>  <p>我拍的晚霞包好看的</p>  <a href="Gallery/wanxiaA"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="xuetianA.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">雪天</div>  <p>冬将军也来了</p>  <a href="Gallery/xuetian"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="lushanA.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">庐山一日游</div>  <p>庐山拍的一些照片</p>  <a href="Gallery/lushan"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="baiyunA.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">白云</div>  <p>一些白云的集锦</p>  <a href="Gallery/baiyunA"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="suipai.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">随拍</div>  <p>随便拍的</p>  <a href="Gallery/suipai"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="brotherA.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">我们</div>  <p>我和我的好兄弟们</p>  <a href="Gallery/brother"></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/Categories/index.html"/>
       <url>/Categories/index.html</url>
@@ -66,11 +55,11 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>gallery</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="大家好-我是WaitAyaka-下面是我的基础信息"><a href="#大家好-我是WaitAyaka-下面是我的基础信息" class="headerlink" title="大家好 我是WaitAyaka 下面是我的基础信息"></a>大家好 我是WaitAyaka 下面是我的基础信息</h2><ul><li>年龄：17</li><li>身高：?</li><li>性别：男</li><li>爱好：爱好有很多</li></ul>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="wanxiaB.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Top榜</div>  <p>我心目中最好看的照片</p>  <a href="Gallery/wanxiaB"></a>  </figcaption>  </figure>     <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="yuanshen1.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">原神</div>  <p>Genshin</p>  <a href="Gallery/genshin"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="ganjiang.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">赣江公园</div>  <p>过期的老照片还是会有感觉</p>  <a href="Gallery/ganjiang"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="riluoA.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">日落</div>  <p>什么时候还能独自骑着车看日落呢</p>  <a href="Gallery/sunshinA"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="wanxiaA.png" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">晚霞</div>  <p>我拍的晚霞包好看的</p>  <a href="Gallery/wanxiaA"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="xuetianA.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">雪天</div>  <p>冬将军也来了</p>  <a href="Gallery/xuetian"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="lushanA.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">庐山一日游</div>  <p>庐山拍的一些照片</p>  <a href="Gallery/lushan"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="baiyunA.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">白云</div>  <p>一些白云的集锦</p>  <a href="Gallery/baiyunA"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="suipai.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">随拍</div>  <p>随便拍的</p>  <a href="Gallery/suipai"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="brotherA.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">我们</div>  <p>我和我的好兄弟们</p>  <a href="Gallery/brother"></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -93,6 +82,17 @@
       <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="大家好-我是WaitAyaka-下面是我的基础信息"><a href="#大家好-我是WaitAyaka-下面是我的基础信息" class="headerlink" title="大家好 我是WaitAyaka 下面是我的基础信息"></a>大家好 我是WaitAyaka 下面是我的基础信息</h2><ul><li>年龄：17</li><li>身高：?</li><li>性别：男</li><li>爱好：爱好有很多</li></ul>]]></content>
       
     </entry>
     
@@ -155,6 +155,28 @@
     
     <entry>
       <title></title>
+      <link href="/Gallery/lushan/index.html"/>
+      <url>/Gallery/lushan/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351843744.jpeg" alt="1713351843744"></p><p><img src="1713351843894.jpeg" alt="1713351843894"></p><ul><li>庐山恋</li></ul><p><img src="1713351844073.jpeg" alt="1713351844073"></p><p><img src="1713351844192.jpeg" alt="1713351844192"></p><ul><li>我在庐山很想你</li></ul><p><img src="1713351844430-1713355112648.jpeg" alt="1713351844430"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/Gallery/genshin/index.html"/>
+      <url>/Gallery/genshin/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1256318.jpg" alt="1256318"></p><p><img src="1275964.jpg" alt="1275964"><br><img src="1297318.jpg" alt="1297318"><br><img src="1341977.jpg" alt="1341977"></p><p><img src="1327796.jpeg" alt="img"></p><p><img src="1298767.jpeg" alt="img"></p><p><img src="1166471.jpeg" alt="img"><img src="1138253.jpg" alt="img"></p><p><a href="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352114983.jpeg">https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352114983.jpeg</a></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/Gallery/ganjiang/index.html"/>
       <url>/Gallery/ganjiang/index.html</url>
       
@@ -177,32 +199,10 @@
     
     <entry>
       <title></title>
-      <link href="/Gallery/genshin/index.html"/>
-      <url>/Gallery/genshin/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1256318.jpg" alt="1256318"></p><p><img src="1275964.jpg" alt="1275964"><br><img src="1297318.jpg" alt="1297318"><br><img src="1341977.jpg" alt="1341977"></p><p><img src="1327796.jpeg" alt="img"></p><p><img src="1298767.jpeg" alt="img"></p><p><img src="1166471.jpeg" alt="img"><img src="1138253.jpg" alt="img"></p><p><a href="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352114983.jpeg">https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352114983.jpeg</a></p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/Gallery/sunshinA/index.html"/>
       <url>/Gallery/sunshinA/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713352114983.jpeg" alt="1713352114983"></p><p><img src="1713352114756.jpeg" alt="1713352114756"></p><p><img src="1713352114470.jpeg" alt="1713352114470"></p><p><img src="1713352113996.jpeg" alt="1713352113996"></p><p><img src="1713352117508.jpeg" alt="1713352117508"></p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/Gallery/lushan/index.html"/>
-      <url>/Gallery/lushan/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351843744.jpeg" alt="1713351843744"></p><p><img src="1713351843894.jpeg" alt="1713351843894"></p><ul><li>庐山恋</li></ul><p><img src="1713351844073.jpeg" alt="1713351844073"></p><p><img src="1713351844192.jpeg" alt="1713351844192"></p><ul><li>我在庐山很想你</li></ul><p><img src="1713351844430-1713355112648.jpeg" alt="1713351844430"></p>          </div>]]></content>
       
     </entry>
     
