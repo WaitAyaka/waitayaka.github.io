@@ -8,7 +8,7 @@
       <link href="/2024/04/30/%E4%BA%91%E5%B4%BDQQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E9%83%A8%E7%BD%B2-%EF%BC%88Linux%EF%BC%89/"/>
       <url>/2024/04/30/%E4%BA%91%E5%B4%BDQQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E9%83%A8%E7%BD%B2-%EF%BC%88Linux%EF%BC%89/</url>
       
-        <content type="html"><![CDATA[<h1 id="云崽机器人脚本部署"><a href="#云崽机器人脚本部署" class="headerlink" title="云崽机器人脚本部署"></a>云崽机器人脚本部署</h1><h1 id="云崽机器人脚本部署-1"><a href="#云崽机器人脚本部署-1" class="headerlink" title="云崽机器人脚本部署"></a>云崽机器人脚本部署</h1><p><img src="image-20240430103929753.png" alt="image-20240430103929753"></p><p><img src="yuanshen2.jpg" alt="yuanshen2"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="云崽机器人脚本部署"><a href="#云崽机器人脚本部署" class="headerlink" title="云崽机器人脚本部署"></a>云崽机器人脚本部署</h1><h1 id="云崽机器人脚本部署-1"><a href="#云崽机器人脚本部署-1" class="headerlink" title="云崽机器人脚本部署"></a>云崽机器人脚本部署</h1><p><img src="image-20240430091726269.png" alt="image-20240430091655016"></p><p><img src="postsimg/image-20240430091553315.png" alt="image-20240430091553315"></p>]]></content>
       
       
       
@@ -17,17 +17,6 @@
     
   
   
-    
-    
-    <entry>
-      <title>Categories</title>
-      <link href="/Categories/index-1.html"/>
-      <url>/Categories/index-1.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
     
     
     <entry>
@@ -42,11 +31,33 @@
     
     
     <entry>
+      <title>Categories</title>
+      <link href="/Categories/index-1.html"/>
+      <url>/Categories/index-1.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>gallery</title>
       <link href="/Gallery/index.html"/>
       <url>/Gallery/index.html</url>
       
         <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="wanxiaB.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Top榜</div>  <p>我心目中最好看的照片</p>  <a href="/Gallery/wanxiaB"></a>  </figcaption>  </figure>     <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="yuanshen1.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">原神</div>  <p>Genshin</p>  <a href="/Gallery/genshin"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="ganjiang.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">赣江公园</div>  <p>过期的老照片还是会有感觉</p>  <a href="/Gallery/ganjiang"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="riluoA.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">日落</div>  <p>什么时候还能独自骑着车看日落呢</p>  <a href="/Gallery/sunshinA"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="wanxiaA.png" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">晚霞</div>  <p>我拍的晚霞包好看的</p>  <a href="/Gallery/wanxiaA"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="xuetianA.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">雪天</div>  <p>冬将军也来了</p>  <a href="/Gallery/xuetian"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="lushanA.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">庐山一日游</div>  <p>庐山拍的一些照片</p>  <a href="/Gallery/lushan"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="baiyunA.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">白云</div>  <p>一些白云的集锦</p>  <a href="/Gallery/baiyunA"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="suipai.jpeg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">随拍</div>  <p>随便拍的</p>  <a href="/Gallery/suipai"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="brotherA.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">我们</div>  <p>我和我的好兄弟们</p>  <a href="/Gallery/brother"></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="大家好-我是WaitAyaka-下面是我的基础信息"><a href="#大家好-我是WaitAyaka-下面是我的基础信息" class="headerlink" title="大家好 我是WaitAyaka 下面是我的基础信息"></a>大家好 我是WaitAyaka 下面是我的基础信息</h2><ul><li>年龄：17</li><li>身高：?</li><li>性别：男</li><li>爱好：爱好有很多</li></ul>]]></content>
       
     </entry>
     
@@ -75,28 +86,6 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="大家好-我是WaitAyaka-下面是我的基础信息"><a href="#大家好-我是WaitAyaka-下面是我的基础信息" class="headerlink" title="大家好 我是WaitAyaka 下面是我的基础信息"></a>大家好 我是WaitAyaka 下面是我的基础信息</h2><ul><li>年龄：17</li><li>身高：?</li><li>性别：男</li><li>爱好：爱好有很多</li></ul>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>comment</title>
-      <link href="/comment/index.html"/>
-      <url>/comment/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -108,9 +97,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>comment</title>
+      <link href="/comment/index.html"/>
+      <url>/comment/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -130,11 +119,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/Gallery/baiyunA/index.html"/>
-      <url>/Gallery/baiyunA/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351841768.jpeg" alt="1713351841768"></p><p><img src="1713351839449.jpeg" alt="1713351839449"></p><p><img src="1713351841121.jpeg" alt="1713351841121"></p><p><img src="1713351837469.jpeg" alt="1713351837469"></p><p><img src="1713351838719.jpeg" alt="1713351838719"></p><p><img src="1713351837238.jpeg" alt="1713351837238"></p><p><img src="1713351842823.jpeg" alt="1713351842823"></p><p><img src="1713351848222.jpeg" alt="1713351848222"></p>          </div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -146,6 +135,17 @@
       <url>/Gallery/ganjiang/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713351841837.jpeg" alt="1713351841837"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352117971.jpeg" alt="1713352117971"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352118287.jpeg" alt="1713352118287"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352118582.jpeg" alt="1713352118582"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352118983.jpeg" alt="1713352118983"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119292.jpeg" alt="1713352119292"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119393.jpeg" alt="1713352119393"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119737.jpeg" alt="1713352119737"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119849.jpeg" alt="1713352119849"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/Gallery/baiyunA/index.html"/>
+      <url>/Gallery/baiyunA/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351841768.jpeg" alt="1713351841768"></p><p><img src="1713351839449.jpeg" alt="1713351839449"></p><p><img src="1713351841121.jpeg" alt="1713351841121"></p><p><img src="1713351837469.jpeg" alt="1713351837469"></p><p><img src="1713351838719.jpeg" alt="1713351838719"></p><p><img src="1713351837238.jpeg" alt="1713351837238"></p><p><img src="1713351842823.jpeg" alt="1713351842823"></p><p><img src="1713351848222.jpeg" alt="1713351848222"></p>          </div>]]></content>
       
     </entry>
     
@@ -208,10 +208,10 @@
     
     <entry>
       <title></title>
-      <link href="/Gallery/xuetian/index.html"/>
-      <url>/Gallery/xuetian/index.html</url>
+      <link href="/Gallery/wanxiaB/index.html"/>
+      <url>/Gallery/wanxiaB/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351837942.jpeg" alt="1713351837942"></p><p><img src="1713351838357.jpeg" alt="1713351838357"></p><p><img src="1713351838990-1713355560186.jpeg" alt="1713351838990"></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713352115827-1713355418355.jpeg" alt="1713352115827"></p><p><img src="1713351840620.jpeg" alt="1713351840620"></p><p><img src="1713351842823.jpeg" alt="1713351842823"></p><p><img src="1713351843354.jpeg" alt="1713351843354"></p><p><img src="1713352111602.jpeg" alt="1713352111602"></p><p><img src="Image_1713351583820.jpg" alt="Image_1713351583820"></p><p><img src="Image_1713351590252.jpg" alt="Image_1713351590252"></p><p><img src="1713352115971.jpeg" alt="1713352115971"></p><p><img src="1713351839495.jpeg" alt="1713351839495"></p>          </div>]]></content>
       
     </entry>
     
@@ -219,10 +219,10 @@
     
     <entry>
       <title></title>
-      <link href="/Gallery/wanxiaB/index.html"/>
-      <url>/Gallery/wanxiaB/index.html</url>
+      <link href="/Gallery/xuetian/index.html"/>
+      <url>/Gallery/xuetian/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713352115827-1713355418355.jpeg" alt="1713352115827"></p><p><img src="1713351840620.jpeg" alt="1713351840620"></p><p><img src="1713351842823.jpeg" alt="1713351842823"></p><p><img src="1713351843354.jpeg" alt="1713351843354"></p><p><img src="1713352111602.jpeg" alt="1713352111602"></p><p><img src="Image_1713351583820.jpg" alt="Image_1713351583820"></p><p><img src="Image_1713351590252.jpg" alt="Image_1713351590252"></p><p><img src="1713352115971.jpeg" alt="1713352115971"></p><p><img src="1713351839495.jpeg" alt="1713351839495"></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351837942.jpeg" alt="1713351837942"></p><p><img src="1713351838357.jpeg" alt="1713351838357"></p><p><img src="1713351838990-1713355560186.jpeg" alt="1713351838990"></p>          </div>]]></content>
       
     </entry>
     
