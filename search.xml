@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2024/04/30/%E4%BA%91%E5%B4%BDQQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2-%EF%BC%88Linux%EF%BC%89/"/>
-      <url>/2024/04/30/%E4%BA%91%E5%B4%BDQQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2-%EF%BC%88Linux%EF%BC%89/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>2023年网络建设与运维KVM创建虚拟机的全过程</title>
       <link href="/2024/04/24/2023%E5%B9%B4%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%E4%B8%8E%E8%BF%90%E7%BB%B4KVM%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B/"/>
       <url>/2024/04/24/2023%E5%B9%B4%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%E4%B8%8E%E8%BF%90%E7%BB%B4KVM%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B/</url>
@@ -246,22 +233,11 @@
     
     
     <entry>
-      <title>Archives</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>标签</title>
+      <link href="/Tags/index.html"/>
+      <url>/Tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="大家好-我是WaitAyaka-下面是我的基础信息"><a href="#大家好-我是WaitAyaka-下面是我的基础信息" class="headerlink" title="大家好 我是WaitAyaka 下面是我的基础信息"></a>大家好 我是WaitAyaka 下面是我的基础信息</h2><ul><li>年龄：17</li><li>身高：?</li><li>性别：男</li><li>爱好：爱好有很多</li></ul>]]></content>
       
     </entry>
     
@@ -279,11 +255,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/Tags/index.html"/>
-      <url>/Tags/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="大家好-我是WaitAyaka-下面是我的基础信息"><a href="#大家好-我是WaitAyaka-下面是我的基础信息" class="headerlink" title="大家好 我是WaitAyaka 下面是我的基础信息"></a>大家好 我是WaitAyaka 下面是我的基础信息</h2><ul><li>年龄：17</li><li>身高：?</li><li>性别：男</li><li>爱好：爱好有很多</li></ul>]]></content>
       
     </entry>
     
@@ -295,6 +271,17 @@
       <url>/css/custom.css</url>
       
         <content type="html"><![CDATA[/*哔哩哔哩视频适配*/.aspect-ratio {    position: relative;    width: 90%;    height: auto;    padding-bottom: 75%;    margin: 3% auto;    text-align: center;  }  .aspect-ratio iframe {    position: absolute;    width: 100%;    height: 86%;    left: 0;    top: 0;  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Archives</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -335,17 +322,6 @@
     
     <entry>
       <title></title>
-      <link href="/Gallery/ganjiang/index.html"/>
-      <url>/Gallery/ganjiang/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713351841837.jpeg" alt="1713351841837"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352117971.jpeg" alt="1713352117971"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352118287.jpeg" alt="1713352118287"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352118582.jpeg" alt="1713352118582"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352118983.jpeg" alt="1713352118983"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119292.jpeg" alt="1713352119292"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119393.jpeg" alt="1713352119393"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119737.jpeg" alt="1713352119737"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119849.jpeg" alt="1713352119849"></p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/Gallery/baiyunA/index.html"/>
       <url>/Gallery/baiyunA/index.html</url>
       
@@ -357,10 +333,21 @@
     
     <entry>
       <title></title>
-      <link href="/Gallery/genshin/index.html"/>
-      <url>/Gallery/genshin/index.html</url>
+      <link href="/Gallery/ganjiang/index.html"/>
+      <url>/Gallery/ganjiang/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1256318.jpg" alt="1256318"></p><p><img src="1275964.jpg" alt="1275964"><br><img src="1297318.jpg" alt="1297318"><br><img src="1341977.jpg" alt="1341977"></p><p><img src="1327796.jpeg" alt="img"></p><p><img src="1298767.jpeg" alt="img"></p><p><img src="1166471.jpeg" alt="img"><img src="1138253.jpg" alt="img"></p><p><a href="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352114983.jpeg">https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352114983.jpeg</a></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713351841837.jpeg" alt="1713351841837"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352117971.jpeg" alt="1713352117971"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352118287.jpeg" alt="1713352118287"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352118582.jpeg" alt="1713352118582"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352118983.jpeg" alt="1713352118983"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119292.jpeg" alt="1713352119292"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119393.jpeg" alt="1713352119393"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119737.jpeg" alt="1713352119737"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352119849.jpeg" alt="1713352119849"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/Gallery/lushan/index.html"/>
+      <url>/Gallery/lushan/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351843744.jpeg" alt="1713351843744"></p><p><img src="1713351843894.jpeg" alt="1713351843894"></p><ul><li>庐山恋</li></ul><p><img src="1713351844073.jpeg" alt="1713351844073"></p><p><img src="1713351844192.jpeg" alt="1713351844192"></p><ul><li>我在庐山很想你</li></ul><p><img src="1713351844430-1713355112648.jpeg" alt="1713351844430"></p>          </div>]]></content>
       
     </entry>
     
@@ -372,6 +359,17 @@
       <url>/Gallery/suipai/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351847925.jpeg" alt="1713351847925"></p><p><img src="1713351847527.jpeg" alt="1713351847527"></p><p><img src="1713351846608.jpeg" alt="1713351846608"></p><p><img src="1713351846223.jpeg" alt="1713351846223"></p><p><img src="1713351848581.jpeg" alt="1713351848581"></p><p><img src="1713351848697.jpeg" alt="1713351848697"></p><p><img src="1713351848222.jpeg" alt="1713351848222"></p><p><img src="1713352111411.jpeg" alt="1713352111411"></p><p><img src="1713352111304.jpeg" alt="1713352111304"></p><p><img src="1713351849228.jpeg" alt="1713351849228"></p><p><img src="1713352112802.jpeg" alt="1713352112802"></p><p><img src="1713352112877.jpeg" alt="1713352112877"></p><p><img src="1713352112532-1713356849143.jpeg" alt="1713352112532"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/Gallery/genshin/index.html"/>
+      <url>/Gallery/genshin/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1256318.jpg" alt="1256318"></p><p><img src="1275964.jpg" alt="1275964"><br><img src="1297318.jpg" alt="1297318"><br><img src="1341977.jpg" alt="1341977"></p><p><img src="1327796.jpeg" alt="img"></p><p><img src="1298767.jpeg" alt="img"></p><p><img src="1166471.jpeg" alt="img"><img src="1138253.jpg" alt="img"></p><p><a href="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352114983.jpeg">https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/1713352114983.jpeg</a></p>          </div>]]></content>
       
     </entry>
     
@@ -394,17 +392,6 @@
       <url>/Gallery/wanxiaA/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351839120.jpeg" alt="1713351839120"></p><p><img src="1713352113465.jpeg" alt="1713352113465"></p><p><img src="1713352114983.jpeg" alt="1713352114983"></p><p><img src="1713352113417.jpeg" alt="1713352113417"></p><p><img src="1713351845765.jpeg" alt="1713351845765"></p><p><img src="1713351841395.jpeg" alt="1713351841395"></p><p><img src="1713351841042.jpeg" alt="1713351841042"></p><p><img src="1713351840782.jpeg" alt="1713351840782"></p><p><img src="1713351838719.jpeg" alt="1713351838719"></p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/Gallery/lushan/index.html"/>
-      <url>/Gallery/lushan/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351843744.jpeg" alt="1713351843744"></p><p><img src="1713351843894.jpeg" alt="1713351843894"></p><ul><li>庐山恋</li></ul><p><img src="1713351844073.jpeg" alt="1713351844073"></p><p><img src="1713351844192.jpeg" alt="1713351844192"></p><ul><li>我在庐山很想你</li></ul><p><img src="1713351844430-1713355112648.jpeg" alt="1713351844430"></p>          </div>]]></content>
       
     </entry>
     
