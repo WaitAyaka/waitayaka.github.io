@@ -2,8 +2,32 @@
 <search> 
   
   
+    
+    <entry>
+      <title>云崽QQ机器人的部署 （Linux）</title>
+      <link href="/2024/04/30/%E4%BA%91%E5%B4%BDQQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E9%83%A8%E7%BD%B2-%EF%BC%88Linux%EF%BC%89/"/>
+      <url>/2024/04/30/%E4%BA%91%E5%B4%BDQQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E9%83%A8%E7%BD%B2-%EF%BC%88Linux%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
   
   
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/Categories/index.html"/>
+      <url>/Categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
     
     
     <entry>
@@ -18,11 +42,11 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/Categories/index.html"/>
-      <url>/Categories/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="大家好-我是WaitAyaka-下面是我的基础信息"><a href="#大家好-我是WaitAyaka-下面是我的基础信息" class="headerlink" title="大家好 我是WaitAyaka 下面是我的基础信息"></a>大家好 我是WaitAyaka 下面是我的基础信息</h2><ul><li>年龄：17</li><li>身高：?</li><li>性别：男</li><li>爱好：爱好有很多</li></ul>]]></content>
       
     </entry>
     
@@ -40,17 +64,6 @@
     
     
     <entry>
-      <title>Archives</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>comment</title>
       <link href="/comment/index.html"/>
       <url>/comment/index.html</url>
@@ -62,11 +75,22 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>标签</title>
+      <link href="/Tags/index.html"/>
+      <url>/Tags/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="大家好-我是WaitAyaka-下面是我的基础信息"><a href="#大家好-我是WaitAyaka-下面是我的基础信息" class="headerlink" title="大家好 我是WaitAyaka 下面是我的基础信息"></a>大家好 我是WaitAyaka 下面是我的基础信息</h2><ul><li>年龄：17</li><li>身高：?</li><li>性别：男</li><li>爱好：爱好有很多</li></ul>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Archives</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -106,11 +130,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/Tags/index.html"/>
-      <url>/Tags/index.html</url>
+      <title></title>
+      <link href="/Gallery/baiyunA/index.html"/>
+      <url>/Gallery/baiyunA/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351841768.jpeg" alt="1713351841768"></p><p><img src="1713351839449.jpeg" alt="1713351839449"></p><p><img src="1713351841121.jpeg" alt="1713351841121"></p><p><img src="1713351837469.jpeg" alt="1713351837469"></p><p><img src="1713351838719.jpeg" alt="1713351838719"></p><p><img src="1713351837238.jpeg" alt="1713351837238"></p><p><img src="1713351842823.jpeg" alt="1713351842823"></p><p><img src="1713351848222.jpeg" alt="1713351848222"></p>          </div>]]></content>
       
     </entry>
     
@@ -173,6 +197,17 @@
     
     <entry>
       <title></title>
+      <link href="/Gallery/wanxiaB/index.html"/>
+      <url>/Gallery/wanxiaB/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713352115827-1713355418355.jpeg" alt="1713352115827"></p><p><img src="1713351840620.jpeg" alt="1713351840620"></p><p><img src="1713351842823.jpeg" alt="1713351842823"></p><p><img src="1713351843354.jpeg" alt="1713351843354"></p><p><img src="1713352111602.jpeg" alt="1713352111602"></p><p><img src="Image_1713351583820.jpg" alt="Image_1713351583820"></p><p><img src="Image_1713351590252.jpg" alt="Image_1713351590252"></p><p><img src="1713352115971.jpeg" alt="1713352115971"></p><p><img src="1713351839495.jpeg" alt="1713351839495"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/Gallery/wanxiaA/index.html"/>
       <url>/Gallery/wanxiaA/index.html</url>
       
@@ -184,32 +219,10 @@
     
     <entry>
       <title></title>
-      <link href="/Gallery/baiyunA/index.html"/>
-      <url>/Gallery/baiyunA/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351841768.jpeg" alt="1713351841768"></p><p><img src="1713351839449.jpeg" alt="1713351839449"></p><p><img src="1713351841121.jpeg" alt="1713351841121"></p><p><img src="1713351837469.jpeg" alt="1713351837469"></p><p><img src="1713351838719.jpeg" alt="1713351838719"></p><p><img src="1713351837238.jpeg" alt="1713351837238"></p><p><img src="1713351842823.jpeg" alt="1713351842823"></p><p><img src="1713351848222.jpeg" alt="1713351848222"></p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/Gallery/xuetian/index.html"/>
       <url>/Gallery/xuetian/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351837942.jpeg" alt="1713351837942"></p><p><img src="1713351838357.jpeg" alt="1713351838357"></p><p><img src="1713351838990-1713355560186.jpeg" alt="1713351838990"></p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/Gallery/wanxiaB/index.html"/>
-      <url>/Gallery/wanxiaB/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713352115827-1713355418355.jpeg" alt="1713352115827"></p><p><img src="1713351840620.jpeg" alt="1713351840620"></p><p><img src="1713351842823.jpeg" alt="1713351842823"></p><p><img src="1713351843354.jpeg" alt="1713351843354"></p><p><img src="1713352111602.jpeg" alt="1713352111602"></p><p><img src="Image_1713351583820.jpg" alt="Image_1713351583820"></p><p><img src="Image_1713351590252.jpg" alt="Image_1713351590252"></p><p><img src="1713352115971.jpeg" alt="1713352115971"></p><p><img src="1713351839495.jpeg" alt="1713351839495"></p>          </div>]]></content>
       
     </entry>
     
