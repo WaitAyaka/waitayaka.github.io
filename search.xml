@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>云崽QQ机器人的一键部署 （Linux）</title>
+      <link href="/2024/04/30/%E4%BA%91%E5%B4%BDQQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2-%EF%BC%88Linux%EF%BC%89/"/>
+      <url>/2024/04/30/%E4%BA%91%E5%B4%BDQQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2-%EF%BC%88Linux%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<h1 id="云崽机器人脚本部署"><a href="#云崽机器人脚本部署" class="headerlink" title="云崽机器人脚本部署"></a>云崽机器人脚本部署</h1><h2 id="调用脚本"><a href="#调用脚本" class="headerlink" title="调用脚本"></a>调用脚本</h2><p>在Linux终端命令行输入  <code>等待系统安装完成</code></p><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">su</span><br><span class="line"></span><br><span class="line">bash &lt;(curl -sL https://gitee.com/baihu433/Yunzai-Bot-Shell/raw/master/install.sh)</span><br></pre></td></tr></table></figure><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430084727241.png" alt="image-20240430084727241"></p><h2 id="定义Api签名"><a href="#定义Api签名" class="headerlink" title="定义Api签名"></a>定义Api签名</h2><h3 id="API接口地址"><a href="#API接口地址" class="headerlink" title="API接口地址"></a>API接口地址</h3><p>Api签名使用小兔提供的API  单击<a href="https://www.xn--h5q74xcj0bhth.icu/?p=419">API</a>进入网页</p><ul><li>随便选择一个API地址 <code>注意：</code>选择的APi接口一定要先访问测试 如果不能访问的话就换一个</li></ul><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430085703661.png" alt="image-20240430085703661"></p><h3 id="定义API接口"><a href="#定义API接口" class="headerlink" title="定义API接口"></a>定义API接口</h3><p>打开终端 完成以下步骤</p><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">su //进入管理员账号</span><br><span class="line"></span><br><span class="line">vim /root/Miao-Yunzai/config/config/bot.yaml  //添加api接口</span><br><span class="line"></span><br><span class="line"> 34 # 签名API地址(如:http://127.0.0.1:8080/sign?key=114514)</span><br><span class="line"> 35 sign_api_addr: http://qsign.angryrabbit.cn/8978/sign?key=114514  //找到第35行 将复制下来的api接口地址填入</span><br><span class="line"> </span><br><span class="line"> wq  //保存退出</span><br></pre></td></tr></table></figure><h2 id="启动云崽服务器"><a href="#启动云崽服务器" class="headerlink" title="启动云崽服务器"></a>启动云崽服务器</h2><ul><li>启动服务器 （如果没有下面这个界面 在命令行中输入bh进入）</li></ul><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430085925188.png" alt="image-20240430085925188"></p><p><code>选择 Miao-Yunzai并回车</code>  第一次进入可能启动不了 再次选择Miao-Yunzai并回车</p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430090045527.png" alt="image-20240430090045527"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430090106628.png" alt="image-20240430090106628"></p><ul><li>配置Yunzai的基础设置</li></ul><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430090410962.png" alt="image-20240430090410962"></p><h3 id="基本配置参数解释"><a href="#基本配置参数解释" class="headerlink" title="基本配置参数解释"></a>基本配置参数解释</h3><ul><li>机器人QQ号 最好使用自己的小号</li><li>输入登陆密码 <ul><li>密码登录： 输入密码登录</li><li>扫码登录： 不输入密码 直接按回车 即可扫码登录</li></ul></li><li>登录端口： 一点要选择apad</li><li>主人QQ号：相当于机器人的管理员  只有这个qq号可以对机器人进行操作</li><li>签名api地址： 选择小兔或者寒暄的api地址  推荐：<a href="http://1.qsign.icu/?key=XxxX">http://1.qsign.icu/?key=XxxX</a></li></ul><ul><li>QQ号验证 选择最后面的那个链接 并在浏览器中打开进行验证</li></ul><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430090755741.png" alt="image-20240430090755741"></p><ul><li>快速完成验证</li></ul><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430091536929.png" alt="image-20240430091536929"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430091553315.png" alt="image-20240430091553315"></p><ul><li>配置成功截图</li></ul><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430091655016.png" alt="image-20240430091655016"></p><h2 id="在QQ中进行验证"><a href="#在QQ中进行验证" class="headerlink" title="在QQ中进行验证"></a>在QQ中进行验证</h2><h4 id="使用帮助进行功能的查询"><a href="#使用帮助进行功能的查询" class="headerlink" title="使用帮助进行功能的查询"></a>使用帮助进行功能的查询</h4><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430091726269.png" alt="image-20240430091726269"></p><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430091746854.png" alt="image-20240430091746854"></p><h2 id="可能遇到的问题"><a href="#可能遇到的问题" class="headerlink" title="可能遇到的问题"></a>可能遇到的问题</h2><p><code>如果遇到更多的问题请私信联系我</code></p><h3 id="api签名遇到异常"><a href="#api签名遇到异常" class="headerlink" title="api签名遇到异常"></a>api签名遇到异常</h3><p><code>这个问题可能是因为你指定的api签名已经无效了</code></p><ol><li>按住ctrl+c回到开始菜单 选择第一个选项 回车</li></ol><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430091122766.png" alt="image-20240430091122766"></p><ol><li>选择第8个选项<code>填入签名</code> 并填入签名</li></ol><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430091338425.png" alt="image-20240430091338425"></p><ol><li>将复制下来的可用api地址 粘贴进去 完成后单击回车返回 这个时候再次启动YunZai就可以了</li></ol><p><img src="https://gitee.com/WaitAyaka/wait-ayaka-pictures/raw/master/image-20240430091405894.png" alt="image-20240430091405894"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> QQ机器人 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> QQ机器人 </tag>
+            
+            <tag> 原神 </tag>
+            
+            <tag> Ubuntu </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2023年网络建设与运维KVM创建虚拟机的全过程</title>
       <link href="/2024/04/24/2023%E5%B9%B4%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%E4%B8%8E%E8%BF%90%E7%BB%B4KVM%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B/"/>
       <url>/2024/04/24/2023%E5%B9%B4%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%E4%B8%8E%E8%BF%90%E7%BB%B4KVM%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B/</url>
@@ -27,19 +56,6 @@
             <tag> KVM </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>入团申请书模板</title>
-      <link href="/2024/04/18/2024418-%E5%85%A5%E5%9B%A2%E7%94%B3%E8%AF%B7%E4%B9%A6%E6%A8%A1%E6%9D%BF/"/>
-      <url>/2024/04/18/2024418-%E5%85%A5%E5%9B%A2%E7%94%B3%E8%AF%B7%E4%B9%A6%E6%A8%A1%E6%9D%BF/</url>
-      
-        <content type="html"><![CDATA[<ul><li>模板一</li></ul><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">敬爱的团组织：</span><br><span class="line"></span><br><span class="line">我是一名高一学生，我志愿加入共青团，我想在优秀的组织中进步、成长，共青团能给我思想上的正确指导，我希望我的高中生活能是“回首来时路，步步皆精彩。”</span><br><span class="line"></span><br><span class="line">高中一年，我从未放松过自身的学习。因为学习永远是这个社会的主旋律。面对日益严峻的竞争形势，只有不断充实知识能量，才能在社会中脱颖而出。所以，我始终把大学生活的中心放于学习上，并以此去设定一个个阶段性的目标，然后努力地取得优异成绩。而作为一名新时代青年，仅仅懂得学习是不够的，还需要有实践的能力，能将知识转化成力量。因此，我的座右铭是“格物致知，知行合一”。我不再一味地为成绩而盲目学习，而是把学习看作一种乐趣，认真地将知识学入心中。并不断思考所学知识的本质与如何进行实际运用。尽管古语有云：“学海无涯苦作舟”，但我有了“格物致知，知行合一”的认识后，则以学为乐，而非苦。每当我解决新问题，获得新知识，我都会为之兴奋，充满了喜悦。这就是学之乐趣。因为有乐，主动学习就成了自然的事，有趣的事，日积月累地就能收获大量新的认知。正因为如此，我收获了“优秀三好学生”等荣誉称号</span><br><span class="line"></span><br><span class="line">学习之余，我还积极参加学生活动工作。学生事务虽然很繁琐，但如今作为信息委员，我始终热衷于工作。因为除了激情外，我还承担着一份责任。处其位，谋其职。从小，父母、老师就教导我要做一个有责任感的人。因此，我尽心尽力地完成每项工作，热心服务同学。回首过去的工作，曾为学委的我，积极配合教务员、老师完成各项教学安排、教学任务，帮助同学解决学习上的问题。辛勤的付出，让我收获了真实的体验，同学的友谊等幸福的回报。</span><br><span class="line"></span><br><span class="line">在思想上，我涉猎各类书籍课程，从书中汲取无尽的知识，以不断充实自我、提升思想觉悟、坚定理想信念。另外，我还参加了义务献血，以回馈社会。另外，我的生活多姿多彩，在享受大高中生活的同时注重发展德智体等各方面。我的兴趣爱好广泛，喜欢听古典音乐，喜欢博览群书，尤其是关于科技与哲学。体育方面，我擅长足球，乒乓球，羽毛球，经常参加体育活动，锻炼身体。</span><br><span class="line"></span><br><span class="line">蓦然回首，我觉得自己很幸运，也很幸福。因为有许许多多的人支持我、理解我、帮助我，让我了解到共青团这个优秀的组织，我衷心地感谢他们。</span><br><span class="line"></span><br><span class="line">憧憬未来，我要努力，我要飞翔，我要让我的鸿鹄之志成为辉煌的现实。请组织批准我，让我以一个团员的身份为社会做出贡献！</span><br><span class="line"></span><br><span class="line">此致</span><br><span class="line"></span><br><span class="line">敬礼！</span><br><span class="line"></span><br><span class="line">申请人：</span><br><span class="line"></span><br><span class="line">x年xx月xx日</span><br></pre></td></tr></table></figure><ul><li>模板二</li></ul><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">敬爱的团组织：</span><br><span class="line"></span><br><span class="line">中国共产主义青年团是中国共产党领导下的先进青年群众组织，我志愿参加中国共产主义青年团。</span><br><span class="line"></span><br><span class="line">中国共产主义青年团是青年积极分子的组织，青年群众的核心，她联系广大青年群体使进步青年可以在组织中得到进一步的教育，在社会取得更好的成绩。参加共产主义青年团，可以使自己在思想上取得更进一步的升华，使自己不要在一些事情上犯思想性的错误。</span><br><span class="line"></span><br><span class="line">共青团坚决响应党的号召，积极组织和发动中国青年，沿着党指引的方向，无数革命青年用自己的鲜血和卓著的功勋，为共青团的历史谱写了不朽的篇章。在社会主义革命和建设道路上，同样留下了共青团员和中国青年无私奉献的足迹，留下了可以告慰先人和彪炳千秋的伟业。我为我们的共青团感到自豪和骄傲！青年团是在革命的风暴中诞生的，在艰苦的战斗历程中成长的组织，她是社会主义革命和建设的突击队，是中国先进青年的群众组织，是学习共产主义的大学校。</span><br><span class="line"></span><br><span class="line">我希望能早日加入中国共产主义青年团。入团后，我将更严格要求自己，坚决拥护中国共产党的领导，遵守团的章程，执行团的决议，履行团员义务，严守团的纪律，把团的名誉放在首位，个人名誉得失放在次位，勤奋学习，积极工作，关心集体和国家大事，爱护他人，力争做一名优秀的共青团员，为建设我们伟大的社会主义祖国贡献自己的力量。</span><br><span class="line"></span><br><span class="line">我一定用实际行动积极争取及早日加入共青团，请考验，请批准。假如我被批准了，我决心遵守团章，执行团的决议，遵守团的纪律，履行团员义务，参加团的工作，做一名名副其实的共青团员，处处起模范作用，为“四化”贡献自己的全部力量；假如我一时未被批准，我也决不灰心。因为可能是我自己还未到团员的要求，但我会更加严格要求自己，继续接受考验，继续创造条件争取。</span><br><span class="line"></span><br><span class="line">希望团委组织可以批准我的申请。我随时预备着迎接新的挑战，并以实践来证实我自己。</span><br><span class="line"></span><br><span class="line">此致</span><br><span class="line"></span><br><span class="line">敬礼！</span><br></pre></td></tr></table></figure><ul><li>模板三</li></ul><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">尊敬的团支部：</span><br><span class="line"></span><br><span class="line">作为21世纪的学生，我们的职责不仅仅是喂饱自己的肚子，还有更重要的使命需要我们去完成，都说学生是祖国的花朵，民族的未来，在这落后就要挨打的年代里，我们只有奋起直追，才不会因虚度年华而悔恨。因此我申请加入共青团！</span><br><span class="line"></span><br><span class="line">“宝剑锋从磨砺出，梅花香自苦寒来”。在成功的道路上总会有许多绊脚石，有些人在绊倒后便不会再站起来；有些人站起来过几次，但最终还是放弃；有些人却一直坚持着站到了最后。每每都是如此，只有那些兵不厌战的人才会是最终的佼佼者。</span><br><span class="line"></span><br><span class="line">梦，不能说珍贵，也不能说平庸。一个简简单单的字眼，却能衍生出许多道理来。每个人都有权力拥有它，它可以是成为一名军人，穿上帅气的军装，保卫我们的祖国；也可以是当一名医生，手握一杆注射器，解救得病的患者；又可以只是一个平平凡凡的打工人，只希望能够一辈子平平安安、健健康康……我们不能以文字来形容它，但它却活在每个人的心里，即使不用文字描述，我们也能知道它究竟是什么样子。各种各样的梦，却给予了我们追梦的同一个道路与方向。</span><br><span class="line"></span><br><span class="line">我志愿加入中国共产主义青年团，因为中国共产主义青年团是先进的群众组织，它能够帮助带领青年向着健康的方向发展，能够使青年的思想、文化、学习提高得更快，在各方面起积极作用，做同学的模范。</span><br><span class="line"></span><br><span class="line">中国共产主义青年团是青年中的先锋队，是接受共产主义教育的学校，是中国共产党忠实的后备力量，在它的帮助教育下，我们能够成为热爱祖国、忠于人民，有知识、守纪律，体魄健壮，勤劳勇敢，朝气蓬勃，不怕任何困难的共产主义*人。</span><br><span class="line"></span><br><span class="line">我决心，加入共青团后，真正起到共青团员的先锋模范作用，努力学习，积极帮助和团结同学、尊敬老师，关心班集体的各项工作，争做班集体的“操心人”，协助老师做好班集体的工作，按时交纳团费，积极参加团组织的活动。总之，今后自己要事事严格要求自己，在各个方面起带头作用，不辜负团组织和老师对自己的期望，做一个名副其实的共青团员。如果团组织暂时没有批准我的申请，我也不灰心丧气，将继续努力，积极向团组织靠拢，向好的同学看齐，努力克服自己身上存在的不足，争取早日加入团组织。</span><br><span class="line"></span><br><span class="line">此致</span><br><span class="line"></span><br><span class="line">敬礼！</span><br><span class="line"></span><br><span class="line">申请人：</span><br><span class="line"></span><br><span class="line">20xx年xx月xx日</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
       
     </entry>
     
@@ -235,28 +251,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/Categories/index.html"/>
-      <url>/Categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="大家好-我是WaitAyaka-下面是我的基础信息"><a href="#大家好-我是WaitAyaka-下面是我的基础信息" class="headerlink" title="大家好 我是WaitAyaka 下面是我的基础信息"></a>大家好 我是WaitAyaka 下面是我的基础信息</h2><ul><li>年龄：17</li><li>身高：?</li><li>性别：男</li><li>爱好：爱好有很多</li></ul>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>标签</title>
       <link href="/Tags/index.html"/>
       <url>/Tags/index.html</url>
@@ -268,11 +262,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>分类</title>
+      <link href="/Categories/index.html"/>
+      <url>/Categories/index.html</url>
       
-        <content type="html"><![CDATA[/*哔哩哔哩视频适配*/.aspect-ratio {    position: relative;    width: 90%;    height: auto;    padding-bottom: 75%;    margin: 3% auto;    text-align: center;  }  .aspect-ratio iframe {    position: absolute;    width: 100%;    height: 86%;    left: 0;    top: 0;  }]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -301,22 +295,22 @@
     
     
     <entry>
-      <title>comment</title>
-      <link href="/comment/index.html"/>
-      <url>/comment/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="大家好-我是WaitAyaka-下面是我的基础信息"><a href="#大家好-我是WaitAyaka-下面是我的基础信息" class="headerlink" title="大家好 我是WaitAyaka 下面是我的基础信息"></a>大家好 我是WaitAyaka 下面是我的基础信息</h2><ul><li>年龄：17</li><li>身高：?</li><li>性别：男</li><li>爱好：爱好有很多</li></ul>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/*哔哩哔哩视频适配*/.aspect-ratio {    position: relative;    width: 90%;    height: auto;    padding-bottom: 75%;    margin: 3% auto;    text-align: center;  }  .aspect-ratio iframe {    position: absolute;    width: 100%;    height: 86%;    left: 0;    top: 0;  }]]></content>
       
     </entry>
     
@@ -334,11 +328,33 @@
     
     
     <entry>
+      <title>comment</title>
+      <link href="/comment/index.html"/>
+      <url>/comment/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/Gallery/baiyunA/index.html"/>
       <url>/Gallery/baiyunA/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351841768.jpeg" alt="1713351841768"></p><p><img src="1713351839449.jpeg" alt="1713351839449"></p><p><img src="1713351841121.jpeg" alt="1713351841121"></p><p><img src="1713351837469.jpeg" alt="1713351837469"></p><p><img src="1713351838719.jpeg" alt="1713351838719"></p><p><img src="1713351837238.jpeg" alt="1713351837238"></p><p><img src="1713351842823.jpeg" alt="1713351842823"></p><p><img src="1713351848222.jpeg" alt="1713351848222"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -368,17 +384,6 @@
     
     <entry>
       <title></title>
-      <link href="/Gallery/sunshinA/index.html"/>
-      <url>/Gallery/sunshinA/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713352114983.jpeg" alt="1713352114983"></p><p><img src="1713352114756.jpeg" alt="1713352114756"></p><p><img src="1713352114470.jpeg" alt="1713352114470"></p><p><img src="1713352113996.jpeg" alt="1713352113996"></p><p><img src="1713352117508.jpeg" alt="1713352117508"></p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/Gallery/genshin/index.html"/>
       <url>/Gallery/genshin/index.html</url>
       
@@ -390,10 +395,10 @@
     
     <entry>
       <title></title>
-      <link href="/Gallery/wanxiaA/index.html"/>
-      <url>/Gallery/wanxiaA/index.html</url>
+      <link href="/Gallery/suipai/index.html"/>
+      <url>/Gallery/suipai/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351839120.jpeg" alt="1713351839120"></p><p><img src="1713352113465.jpeg" alt="1713352113465"></p><p><img src="1713352114983.jpeg" alt="1713352114983"></p><p><img src="1713352113417.jpeg" alt="1713352113417"></p><p><img src="1713351845765.jpeg" alt="1713351845765"></p><p><img src="1713351841395.jpeg" alt="1713351841395"></p><p><img src="1713351841042.jpeg" alt="1713351841042"></p><p><img src="1713351840782.jpeg" alt="1713351840782"></p><p><img src="1713351838719.jpeg" alt="1713351838719"></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351847925.jpeg" alt="1713351847925"></p><p><img src="1713351847527.jpeg" alt="1713351847527"></p><p><img src="1713351846608.jpeg" alt="1713351846608"></p><p><img src="1713351846223.jpeg" alt="1713351846223"></p><p><img src="1713351848581.jpeg" alt="1713351848581"></p><p><img src="1713351848697.jpeg" alt="1713351848697"></p><p><img src="1713351848222.jpeg" alt="1713351848222"></p><p><img src="1713352111411.jpeg" alt="1713352111411"></p><p><img src="1713352111304.jpeg" alt="1713352111304"></p><p><img src="1713351849228.jpeg" alt="1713351849228"></p><p><img src="1713352112802.jpeg" alt="1713352112802"></p><p><img src="1713352112877.jpeg" alt="1713352112877"></p><p><img src="1713352112532-1713356849143.jpeg" alt="1713352112532"></p>          </div>]]></content>
       
     </entry>
     
@@ -401,10 +406,10 @@
     
     <entry>
       <title></title>
-      <link href="/Gallery/suipai/index.html"/>
-      <url>/Gallery/suipai/index.html</url>
+      <link href="/Gallery/sunshinA/index.html"/>
+      <url>/Gallery/sunshinA/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351847925.jpeg" alt="1713351847925"></p><p><img src="1713351847527.jpeg" alt="1713351847527"></p><p><img src="1713351846608.jpeg" alt="1713351846608"></p><p><img src="1713351846223.jpeg" alt="1713351846223"></p><p><img src="1713351848581.jpeg" alt="1713351848581"></p><p><img src="1713351848697.jpeg" alt="1713351848697"></p><p><img src="1713351848222.jpeg" alt="1713351848222"></p><p><img src="1713352111411.jpeg" alt="1713352111411"></p><p><img src="1713352111304.jpeg" alt="1713352111304"></p><p><img src="1713351849228.jpeg" alt="1713351849228"></p><p><img src="1713352112802.jpeg" alt="1713352112802"></p><p><img src="1713352112877.jpeg" alt="1713352112877"></p><p><img src="1713352112532-1713356849143.jpeg" alt="1713352112532"></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713352114983.jpeg" alt="1713352114983"></p><p><img src="1713352114756.jpeg" alt="1713352114756"></p><p><img src="1713352114470.jpeg" alt="1713352114470"></p><p><img src="1713352113996.jpeg" alt="1713352113996"></p><p><img src="1713352117508.jpeg" alt="1713352117508"></p>          </div>]]></content>
       
     </entry>
     
@@ -427,6 +432,17 @@
       <url>/Gallery/xuetian/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351837942.jpeg" alt="1713351837942"></p><p><img src="1713351838357.jpeg" alt="1713351838357"></p><p><img src="1713351838990-1713355560186.jpeg" alt="1713351838990"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/Gallery/wanxiaA/index.html"/>
+      <url>/Gallery/wanxiaA/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="1713351839120.jpeg" alt="1713351839120"></p><p><img src="1713352113465.jpeg" alt="1713352113465"></p><p><img src="1713352114983.jpeg" alt="1713352114983"></p><p><img src="1713352113417.jpeg" alt="1713352113417"></p><p><img src="1713351845765.jpeg" alt="1713351845765"></p><p><img src="1713351841395.jpeg" alt="1713351841395"></p><p><img src="1713351841042.jpeg" alt="1713351841042"></p><p><img src="1713351840782.jpeg" alt="1713351840782"></p><p><img src="1713351838719.jpeg" alt="1713351838719"></p>          </div>]]></content>
       
     </entry>
     
